@@ -8,11 +8,11 @@
 
 # 2. Settings:
 
-- `package.json` scripts:
+### 2.1 package.json scripts:
 
 - `"start": "nodemon dist/app.js"`
 
-- `tsconfig.json`:
+### 2.2 tsconfig.json settings:
 
 - `"target": "ES2018"`
 - `"moduleResolution": "node"`
